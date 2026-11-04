@@ -1,4 +1,4 @@
-# Mail Totals Tracker — UKG Print Shop
+# Mail Totals Tracker — Print Shop
 
 This folder has one Excel workbook, `Mail Totals Tracker.xlsx`. The print shop uses it to add
 up outgoing mail as **letters** and **flats**. It replaces a paper notepad.
